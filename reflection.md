@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I had to look back at old notes and check the solution for a couple parts of this assignment, specifically the reading and loading files, as well as to put the data/ before the file name. Otherwise I didn't struggle too much with this lab and I remembered how to use the packaging module functions that I created.
